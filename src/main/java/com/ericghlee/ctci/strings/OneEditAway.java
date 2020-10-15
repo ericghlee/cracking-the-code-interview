@@ -1,6 +1,6 @@
 package com.ericghlee.ctci.strings;
 
-public class Others {
+public class OneEditAway {
 
     // CTCI - Exercise 1.5
     public static boolean isOneEditAway(String str, String other) {

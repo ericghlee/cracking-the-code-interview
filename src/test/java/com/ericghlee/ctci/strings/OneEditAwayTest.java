@@ -2,11 +2,11 @@ package com.ericghlee.ctci.strings;
 
 import org.junit.jupiter.api.Test;
 
-import static com.ericghlee.ctci.strings.Others.isOneEditAway;
+import static com.ericghlee.ctci.strings.OneEditAway.isOneEditAway;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-class OthersTest {
+class OneEditAwayTest {
 
     @Test
     public void test_isOneEditAway() {
